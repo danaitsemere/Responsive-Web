@@ -1,0 +1,239 @@
+body{
+    overflow-x: hidden;
+    width: 100%;
+}
+
+.main{
+    background-color: #EEEEEF;
+    text-align: center;
+    padding: 0.5%;
+    color: white;
+    margin-bottom: -0.1%;
+    background-image: url(Images/first.avif);
+    background-position: contain;
+    background-size: cover;
+    background-image: no-repeat;
+    height: 1000px;
+    
+}
+#button{
+    margin-top: 40px;
+}
+
+header{
+   text-align: center;
+    border: 1px solid;
+    background-color:rgb(70, 118, 70);
+justify-content: space-between;
+
+}
+.dashboard{
+
+/*justify-content: space-between;
+position: absolute; */
+top: 0%;
+width: 100%;
+}
+
+.dashboard,.view{
+    display: flex;
+    justify-content: space-between;
+    gap: 10%;
+
+}
+.company{
+    text-align: center;
+    margin-left: 50%;
+}
+.bed img{
+    width: 50%;
+margin-left: -29%;
+}
+.advertise{
+    display: flex;
+
+}
+#button{
+    font-size: 20px;
+    height: 60px;
+    width: 200px;
+    border-radius:9px;
+}
+.know-more{
+    display: flex;
+
+
+
+
+}
+.know-more p{
+    margin-left: -50%;
+   
+    
+}
+.know-more h2{
+    margin-top: -20%;
+}
+.know-more h3{
+    margin-left: -100%;
+    margin-top: -7%;
+    
+}
+.button-container{
+    display: flex;
+    gap:5%;
+}
+.button-container button{
+    border-radius: 100px;
+    padding: 10%;
+}
+.icon{
+    display: flex;
+    gap:10%;
+}
+.premium{
+    display: flex;
+}
+.premium img{
+    width: 20%;
+    margin-top: 10%;
+}
+.premium p{
+    margin-left:10% ;
+}
+.warranty{
+    display: flex;
+}
+.Warranty img{
+    width: 20%;
+}
+.prompt{
+    display: flex;
+}
+.prompt  img{
+    width:50%;
+}
+.eco-friend{
+    display: flex;
+}
+.eco-friend img{
+    width: 50%;
+}
+.photos{
+    display: flex;
+    gap: 30%;
+}
+.photos img{
+    width: 50%;
+}
+.array-print{
+    text-align: center;
+}
+.array-print p{
+    text-align: center;
+
+}
+.steps{
+    display: flex;
+}
+.praise{
+text-align: center;
+}
+.praise p{
+    text-align: center;
+    
+}
+.praise-type{
+    display: flex;
+}
+.praise-type img{
+width: 50%;
+
+}
+
+.expalnation{
+    display: flex;
+    gap: 10%;
+}
+.high-quality{
+
+}
+.brands{
+    display: flex;
+    gap:5%;
+}
+.print img{
+    width:200%;
+    
+}
+.box img{
+    width: 200%;
+    height: 60%;
+    
+}
+.paint img{
+    width: 100%;
+}
+.high-quality{
+    display:flex;
+    gap: 10%;
+}
+.high-quality img{
+    width: 200%;
+
+}
+.armind img{
+    /* width: 50%; */
+}
+.best-works{
+    text-align: center;
+}
+
+.myntra img{
+    width:40%;
+}
+.best-photos{
+    display: flex;
+}
+.dress img{
+    width: 50%;
+}
+.sub-best img{
+    width: 100%;
+}
+.reach-out{
+    text-align: center;
+
+}
+.footer{
+    display: flex;
+}
+.footer ul{
+    list-style: none;
+}
+.location img{
+    width: 100%;
+}
+.advertise{
+    margin-top: 200px;
+    text-align: center;
+    /* text-align: justify; */
+    margin-top: 10%;
+    margin-bottom: 5%;
+
+}
+#paragraph{
+    margin-top: 10%;
+    
+
+
+}
+.advertise h1{
+    margin-left: 100px;
+   
+}
+#heading-two{
+    
+}
+
+
